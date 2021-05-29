@@ -1,0 +1,27 @@
+* {
+  font-family: Courier New;
+}
+img {
+  padding: 10px;
+}
+.title {
+  font-size: 50px;
+  padding: 20px;
+  text-decoration: bold;
+}
+.subtitle {
+  font-size: 30px;
+  padding: 5px;
+}
+.item {
+  border: 2px white;
+  margin: 10px;
+  padding: 10px;
+}
+.menu {
+  border: 10px white;
+  padding: 10px;
+  width: 1000px;
+	height: 4730px;
+    background-color: DarkSlateGray;
+} 

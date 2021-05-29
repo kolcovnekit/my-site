@@ -1,0 +1,422 @@
+<div align="center">
+  <meta charset="utf-8">
+  <title>Винни-Пух</title>
+  <style>
+   img {
+    border: 3px solid #FFFFFF;
+   }
+  </style>
+ </head>
+ <body>
+<img src="https://media.cntraveler.com/photos/5b22bfdff04a775484b99dfc/master/pass/Alo-Restaurant__2018_Raffi-Photo-2.jpg" height="200"/>
+   </body>
+<div align="center">
+<div> 
+  <div class="title"> Кафе пятерочка </div>
+</div>
+<div class="menu">
+  <div class="subtitle"> Меню </div>
+  <div class="item">
+    <img src="https://www.thespruceeats.com/thmb/N-MHztL8s2Ld1L1ivCXclMYOor4=/2000x1500/filters:fill(auto,1)/GettyImages-885397466-5c0cc0634cedfd00012758a7.jpg" height="300"/>
+    <div class=title> макароны </div>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+</head>
+<body>
+
+<button class="button">Заказать</button>
+
+</body>
+    <h1><div align="center">макароны, выбор порции будет предоставлен во время оплаты
+    мал: 50 руб
+    сред: 70 руб
+    большьая:120 руб</div></h1>
+  
+    
+  </div>
+  <div class="item">
+    <img src="https://attuale.ru/wp-content/uploads/2018/11/129_image.jpg" height="300"/>
+    <div class=title> салат греческий </div>
+    <h1><div> 135 руб </div></h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+</head>
+<body>
+
+<button class="button">Заказать</button>
+
+</body>
+    <h1><div align="center">полностью натуральный, без добавок</div>
+  </div></h1>
+  <div class="item">
+    <img src="https://www.kingarthurflour.com/sites/default/files/recipe_legacy/20-3-large.jpg" height="300"/>
+    <div class=title> пицца </div>
+    <h1><div> 250 руб </div></h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+</head>
+<body>
+
+<button class="button">Заказать</button>
+
+</body>
+    <h1><div align="center">в основном приготовлена из натуральных продуктов</div>
+  </div></h1>
+  <div class="item">
+    <img src="https://mircooking.ru/wp-content/uploads/2020/05/%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D1%83%D0%BF-%D1%81-%D0%BBo%D1%81o%D1%81%D0%B5%D0%BC-%D0%B8-%D1%81%D0%BB%D0%B8%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8.jpg" height="300"/>
+    <div class=title> суп с хлебом </div>
+    <h1><div> 120 руб </div></h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+</head>
+<body>
+
+<button class="button">Заказать</button>
+
+</body>
+    <h1><div align="center">суп приготовленный по классическому рицепту, без добавок и как бонус два кусочка хлеба</div></h1>
+  </div>
+  <div class="item">
+    <img src="https://jooinn.com/images/heart-coffee-3.jpg" height="300"/>
+    <div class=title> кофе </div>
+    <h1><div> 30 руб </div></h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+</head>
+<body>
+
+<button class="button">Заказать</button>
+
+</body>
+    <h1><div align="center">кофе свежей обжарки</div></h1>
+  </div>
+  <div class="item">
+    <img src="https://lookw.ru/1/191/1380317385-chay-ch1--48.jpg" height="300"/>
+    <div class=title> чай </div>
+    <h1><div> 30 руб </div></h1>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+    position: relative;
+    background-color: #4CAF50;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.button:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.button:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+</style>
+</head>
+<body>
+
+<button class="button">Заказать</button>
+
+</body>
+    <h1><div align="center">чай из натуральных трав</div></h1>
+  </div> 
+  <head>
+  <meta charset="utf-8">
+  <title>Положение фонового рисунка</title>
+  <style>
+   html {
+    height: 100%; /* Высота страницы */
+   } 
+   body {
+    background: 
+     url(images/tomatos.jpg) right bottom no-repeat; /* Путь к файлу с изображением,
+                                                   положение в правом нижнем углу
+                                                   и отмена повторения фона */
+     margin-right: 200px; /* Отступ справа */
+   }
+  </style>
+ </head>
+ <body>
+   <h1>Консервы из помидор(Ну по крайней мене скоро будут доступны)</h1>
+   <p>Плоды отбирают с хорошей ровной окраской, плотные и однородные по 
+   размеру, укладывают в банки и заливают кипящим рассолом (на 1 л воды - 35 г 
+   поваренной соли и 6 г лимонной кислоты). Банки прикрывают крышками и 
+   ставят на прогревание, выдерживая в кипящей воде: литровые - 5-8, 
+   трехлитровые - 12-15 мин. Затем их укупоривают и охлаждают.</p>
+   <p>Примерный расход сырья и продуктов на литровую банку: помидоров 
+   красных отборных - 550-600 г, соли - 15 г, лимонной кислоты - 3 г.</p>
+  </body>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+</head>
+<body>
+
+<button class="button"><span>Корзина </span></button>
+
+</body>
+<meta charset="utf-8">
+  <style>
+   a { 
+    text-decoration: none;
+   } 
+  </style>
+ </head>
+ <body>
+  <h1><p><a href="https://geekprank.com/hacker/typer/">Click me</a></p></h1>
+ </body>
+ </head>
+ <body>
+   <meta charset="utf-8">
+  <title>background-image</title>
+  <style>
+   body {
+    background-image: url(images/bg.jpg);
+    background-color: #c7b39b;
+    color: #fff;
+   }
+  </style>
+   </head>
+ <body>
+  <p>...</p>
+ </body>
+</html>
+</div>
